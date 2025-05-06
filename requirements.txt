@@ -1,0 +1,11 @@
+finnhub-python
+requests
+apscheduler
+tweepy
+openai
+agno
+anthropic
+yfinance
+dotenv
+python-telegram-bot
+aiohttp
